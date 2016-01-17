@@ -1,0 +1,5 @@
+/home/romanchumychov/projects/snake/snake/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/romanchumychov/projects/snake/snake/bin/Debug/snake.exe.mdb
+/home/romanchumychov/projects/snake/snake/bin/Debug/snake.exe
+/home/romanchumychov/projects/snake/snake/obj/x86/Debug/snake.exe
+/home/romanchumychov/projects/snake/snake/obj/x86/Debug/snake.exe.mdb

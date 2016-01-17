@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "snake", "snake\snake.csproj", "{BF205C36-C0F2-4B75-BD12-80275F337980}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF205C36-C0F2-4B75-BD12-80275F337980}.Debug|x86.ActiveCfg = Debug|x86
+		{BF205C36-C0F2-4B75-BD12-80275F337980}.Debug|x86.Build.0 = Debug|x86
+		{BF205C36-C0F2-4B75-BD12-80275F337980}.Release|x86.ActiveCfg = Release|x86
+		{BF205C36-C0F2-4B75-BD12-80275F337980}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
